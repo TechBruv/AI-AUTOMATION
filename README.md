@@ -25,3 +25,19 @@ git clone [https://github.com/TechBruv/ai-automation.git](https://github.com/Tec
 cd ai-automation
 pip install icalendar pytz
 python calendar_automation.py
+### Deployment
+To run this calendar automation script locally, use the following commands:
+
+\`\`\`bash
+# Clone the repository
+git clone https://github.com/TechBruv/AI-AUTOMATION.git
+
+# Navigate into the directory
+cd AI-AUTOMATION
+
+# Install required dependencies
+pip install icalendar pytz
+
+# Execute the script
+python calendar_automation.py
+\`\`\`
