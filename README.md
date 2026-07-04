@@ -21,7 +21,7 @@ A Python-based workflow that programmatically generates standard `.ics` files co
 
 ### Deployment
 ```bash
-git clone [https://github.com/tech_bruv/ai-automation.git](https://github.com/tech_bruv/ai-automation.git)
+git clone [https://github.com/TechBruv/ai-automation.git](https://github.com/TechBruv/ai-automation.git)
 cd ai-automation
 pip install icalendar pytz
 python calendar_automation.py
